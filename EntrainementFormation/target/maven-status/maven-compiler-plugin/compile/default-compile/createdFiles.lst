@@ -1,12 +1,13 @@
-classes/Personne.class
 EntrainFormation.class
+interfaces/JDBCBaseDeDonnees.class
+bdd/DbEleve.class
+classes/Eleve.class
+classes/TaxeSalaireException.class
+classes/Personne.class
 Forms/entree.class
 interfaces/EleveDao.class
 bdd/GestionBDD.class
 interfaces/PersonneDao.class
-interfaces/JDBCBaseDeDonnees.class
 enums/Sexe.class
 classes/TaxeSalaire.class
 bdd/DbPersonne.class
-bdd/DbEleve.class
-classes/Eleve.class

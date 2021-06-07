@@ -24,7 +24,7 @@ public class EntrainFormation {
         List<Eleve> eleves = daodbEleve.findEleves();
 
 
-        System.out.println("---------------------------------------");
+        System.out.println("Début ---------------------------------------");
 
 
         personnes.stream()
@@ -69,7 +69,7 @@ public class EntrainFormation {
 
             }
         }
-        System.out.println("---------------------------------------");
+        System.out.println("Fin---------------------------------------");
 
     }
 }
